@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lick my balls
+          Sorry about that
         </a>
       </header>
     </div>
